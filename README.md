@@ -1,6 +1,6 @@
 # Hi, I'm Tim 👋
 
-I'm an aspiring full-stack developer building practical web applications with JavaScript, Node.js, HTML, CSS, and PostgreSQL.
+I'm an aspiring junior developer building practical web applications with JavaScript, Node.js, HTML, CSS, and PostgreSQL.
 
 I'm focused on creating clean, maintainable projects while improving my frontend and backend development skills. I enjoy building applications that solve real problems and continuously learning modern development practices.
 
@@ -37,9 +37,11 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * Full CRUD functionality
 * Server-side rendering with EJS templates
 
+---
+
 ## 🛠️ Skills
 
-**Frontend**
+### Frontend
 
 * HTML5
 * CSS3
@@ -48,7 +50,7 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * Responsive Design
 * Accessibility
 
-**Backend**
+### Backend
 
 * Node.js
 * Express.js
@@ -57,7 +59,7 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * Server-side Rendering
 * Database Integration
 
-**Tools**
+### Tools
 
 * Git & GitHub
 * npm
