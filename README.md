@@ -37,6 +37,8 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * Full CRUD functionality
 * Server-side rendering with EJS templates
 
+🔗 Live Demo: https://book-tracker-d6k8.onrender.com
+
 ---
 
 ## 🛠️ Skills
