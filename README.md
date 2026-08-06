@@ -6,6 +6,23 @@ I enjoy working across the stack, from building responsive interfaces to designi
 
 ## 🚀 Featured Projects
 
+### 📚 Book Tracker
+
+A full-stack book tracking application built with Node.js, Express, PostgreSQL, and EJS.
+
+**Features:**
+
+* Add and manage personal reading lists
+* Automatic book information retrieval using the OpenLibrary API
+* PostgreSQL data persistence
+* Edit ratings, notes, and reading dates
+* Full CRUD functionality
+* Server-side rendering with EJS templates
+
+🔗 [GitHub Repository](https://github.com/zireael06/book-tracker) | [Live Demo](https://book-tracker-d6k8.onrender.com)
+
+---
+
 ### ✅ Task Tracker
 
 A responsive task management application built with vanilla JavaScript.
@@ -17,27 +34,10 @@ A responsive task management application built with vanilla JavaScript.
 * Priority levels
 * Dark mode toggle
 * Local Storage persistence
-* Modular JavaScript architecture
+* Modular JavaScript architecture using ES6 modules
 * Responsive design
 
-🔗 Live Demo: https://zireael06.github.io/Todo-App/
-
----
-
-### 📚 Book Tracker
-
-A full-stack book tracking application built with Node.js, Express, PostgreSQL, and EJS.
-
-**Features:**
-
-* Add and manage personal reading lists
-* Automatic book information retrieval using the OpenLibrary API
-* Store book data in PostgreSQL
-* Edit ratings, notes, and reading dates
-* Full CRUD functionality
-* Server-side rendering with EJS templates
-
-🔗 Live Demo: https://book-tracker-d6k8.onrender.com
+🔗 [GitHub Repository](https://github.com/zireael06/Todo-App) | [Live Demo](https://zireael06.github.io/Todo-App/)
 
 ---
 
@@ -47,7 +47,9 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 
 * HTML5
 * CSS3
-* JavaScript (ES6 Modules)
+* JavaScript (ES6+)
+* React
+* React Hooks
 * DOM Manipulation
 * Responsive Design
 * Accessibility
@@ -58,25 +60,25 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * Express.js
 * PostgreSQL
 * REST APIs
-* Server-side rendering
+* Server-side Rendering
 * Database Integration
 
 ### Tools
 
 * Git & GitHub
 * npm
+* Postman
 * Environment Configuration
+* Render
+* GitHub Pages
 
-### 📌 Currently Working On
+## 📌 Currently Working On
 
 * Building a larger full-stack application with React
 * Strengthening my React and modern JavaScript skills
 * Improving application architecture and code quality
-* Developing REST APIs with Node.js and Express
-* Expanding my PostgreSQL and database design knowledge
-* Learning testing and professional development practices
-
+* Expanding my backend, PostgreSQL, and testing knowledge
 
 ## 📫 Connect
 
-GitHub: https://github.com/zireael06
+[GitHub](https://github.com/zireael06)
