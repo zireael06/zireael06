@@ -1,8 +1,8 @@
 # Hi, I'm Tim 👋
 
-I'm an aspiring junior full-stack developer building practical web applications with JavaScript, Node.js, HTML, CSS, and PostgreSQL.
+I'm a junior full-stack developer building practical web applications with JavaScript, Node.js, Express, PostgreSQL, HTML, and CSS.
 
-I'm focused on creating clean, maintainable projects while improving my frontend and backend development skills. I enjoy building applications that solve real problems and continuously learning modern development practices.
+I enjoy working across the stack, from building responsive interfaces to designing APIs and integrating databases. I'm currently expanding my frontend skills with React while continuing to build and deploy full-stack projects.
 
 ## 🚀 Featured Projects
 
