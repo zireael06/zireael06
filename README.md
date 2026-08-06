@@ -67,13 +67,15 @@ A full-stack book tracking application built with Node.js, Express, PostgreSQL, 
 * npm
 * Environment Configuration
 
-## 📌 Currently Learning
+### 📌 Currently Working On
 
-* Building larger full-stack applications
-* Improving JavaScript architecture
-* Writing cleaner and more scalable code
-* Expanding backend development skills
-* Deploying applications to the cloud
+* Building a larger full-stack application with React
+* Strengthening my React and modern JavaScript skills
+* Improving application architecture and code quality
+* Developing REST APIs with Node.js and Express
+* Expanding my PostgreSQL and database design knowledge
+* Learning testing and professional development practices
+
 
 ## 📫 Connect
 
