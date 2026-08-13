@@ -1,84 +1,39 @@
-# Hi, I'm Tim 👋
+# Tim Baker
 
-I'm a junior full-stack developer building practical web applications with JavaScript, Node.js, Express, PostgreSQL, HTML, and CSS.
+**Junior Full-Stack Developer | JavaScript · React · Node.js · PostgreSQL**
 
-I enjoy working across the stack, from building responsive interfaces to designing APIs and integrating databases. I'm currently expanding my frontend skills with React while continuing to build and deploy full-stack projects.
+I build and deploy practical web applications across the stack. My frontend work includes a responsive, accessible task manager built with modular JavaScript and persistent client-side state; my full-stack work includes a PostgreSQL-backed CRUD application with server-rendered views and third-party API integration.
 
-## 🚀 Featured Projects
+Currently building with React and Hooks. Open to junior frontend and full-stack opportunities in London.
 
-### 📚 Book Tracker
+## Featured Projects
 
-A full-stack book tracking application built with Node.js, Express, PostgreSQL, and EJS.
+### Task Tracker — Frontend
 
-**Features:**
+**JavaScript (ES6 modules) · HTML5 · CSS3 · Local Storage**
 
-* Add and manage personal reading lists
-* Automatic book information retrieval using the OpenLibrary API
-* PostgreSQL data persistence
-* Edit ratings, notes, and reading dates
-* Full CRUD functionality
-* Server-side rendering with EJS templates
+Built a responsive task manager with separated state, rendering, and storage modules. Supports task creation and editing, search and status filters, priorities, persistent dark mode, and accessible controls.
 
-🔗 [GitHub Repository](https://github.com/zireael06/book-tracker) | [Live Demo](https://book-tracker-d6k8.onrender.com)
+[Live Demo](https://zireael06.github.io/Todo-App/) · [Source Code](https://github.com/zireael06/Todo-App)
 
----
+### Book Tracker — Full Stack
 
-### ✅ Task Tracker
+**Node.js · Express · PostgreSQL · EJS · OpenLibrary API**
 
-A responsive task management application built with vanilla JavaScript.
+Built and deployed a CRUD reading tracker with PostgreSQL persistence, server-rendered views, environment-based configuration, and API integration for book details and cover images.
 
-**Features:**
+[Live Demo](https://book-tracker-d6k8.onrender.com) · [Source Code](https://github.com/zireael06/book-tracker)
 
-* Task creation and management
-* Search and filtering
-* Priority levels
-* Dark mode toggle
-* Local Storage persistence
-* Modular JavaScript architecture using ES6 modules
-* Responsive design
+## Core Stack
 
-🔗 [GitHub Repository](https://github.com/zireael06/Todo-App) | [Live Demo](https://zireael06.github.io/Todo-App/)
+- **Frontend:** JavaScript (ES6+), React, React Hooks, HTML5, CSS3, responsive design, accessibility
+- **Backend:** Node.js, Express, PostgreSQL, SQL, REST APIs, EJS
+- **Tools:** Git, GitHub, npm, Postman, Render, GitHub Pages
 
----
+## Current Focus
 
-## 🛠️ Skills
+Building a React application with reusable components and Hooks, with a focus on state management and component architecture.
 
-### Frontend
+## Connect
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React
-* React Hooks
-* DOM Manipulation
-* Responsive Design
-* Accessibility
-
-### Backend
-
-* Node.js
-* Express.js
-* PostgreSQL
-* REST APIs
-* Server-side Rendering
-* Database Integration
-
-### Tools
-
-* Git & GitHub
-* npm
-* Postman
-* Environment Configuration
-* Render
-* GitHub Pages
-
-## 📌 Currently Working On
-
-* Building a larger full-stack application with React
-* Strengthening my React and modern JavaScript skills
-* Improving application architecture and code quality
-* Expanding my backend, PostgreSQL, and testing knowledge
-
-## 📫 Connect
-
-[GitHub](https://github.com/zireael06)
+[LinkedIn](https://www.linkedin.com/in/timbakerdev)
