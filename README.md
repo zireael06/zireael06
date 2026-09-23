@@ -4,11 +4,19 @@
 
 I build and deploy practical web applications with a focus on responsive interfaces, maintainable JavaScript, and clear user workflows.
 
-I recently completed a working React Gym Tracker featuring reusable components, React Hooks, routine and exercise CRUD, timed workouts, persistent workout history, and responsive layouts. I am currently polishing it for public release.
+I recently completed and deployed a React Gym Tracker featuring reusable components, React Hooks, routine and exercise CRUD, timed workouts, input validation, persistent workout history, and responsive layouts.
 
 Open to junior frontend and full-stack opportunities in London. Relocating before starting.
 
 ## Featured Projects
+
+### Gym Tracker — React
+
+**React · JavaScript · Vite · CSS3 · localStorage**
+
+A responsive workout-tracking application for creating routines, recording sets, timing workouts, and reviewing progress. Includes input validation, workout volume calculations, searchable and sortable history, and the ability to save and resume unfinished workouts.
+
+[Live Demo](https://gym-tracker-omega-one.vercel.app/) · [Source Code](https://github.com/zireael06/gym-tracker)
 
 ### Book Tracker — Full Stack
 
@@ -30,7 +38,7 @@ A responsive task manager with separated state, rendering, and storage modules. 
 
 - **Frontend:** JavaScript, React, React Hooks, HTML5, CSS3, responsive design, accessibility
 - **Backend:** Node.js, Express, PostgreSQL, SQL, EJS, third-party API integration
-- **Tools:** Git, GitHub, npm, Postman, ESLint, Render, GitHub Pages
+- **Tools:** Git, GitHub, npm, Vite, Postman, ESLint, Vercel, Render, GitHub Pages
 
 ## Connect
 
